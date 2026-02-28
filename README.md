@@ -26,6 +26,7 @@
 
 Note: Hosted on Render free tier — 
 first load may take 30-60 seconds to wake up.
+
 ---
 
 ## Features
