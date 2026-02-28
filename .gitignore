@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Database
+medivault.sqlite
+medivault.sqlite-shm
+medivault.sqlite-wal
+
+# Build
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
