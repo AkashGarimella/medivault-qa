@@ -24,6 +24,20 @@
 
 **The Solution:** MediVault QA Tool automates this by reading your internal reference documents and using AI to generate accurate, cited answers for every question — in seconds.
 
+## Live Demo
+
+🔗 https://medivault-qa.onrender.com
+
+> **Note:** Hosted on Render free tier — first load may take 30-60 seconds to wake up.
+
+## Quick Start (Demo)
+
+1. Open the live link
+2. Sign up for a new account (or use `demo@medivault.io` / `demo123`)
+3. The questionnaire and reference documents are pre-loaded
+4. Click **Generate Answers** directly — no uploads needed
+5. Review answers, edit if needed, then export
+
 Note: Hosted on Render free tier — 
 first load may take 30-60 seconds to wake up.
 
