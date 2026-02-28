@@ -24,6 +24,8 @@
 
 **The Solution:** MediVault QA Tool automates this by reading your internal reference documents and using AI to generate accurate, cited answers for every question — in seconds.
 
+Note: Hosted on Render free tier — 
+first load may take 30-60 seconds to wake up.
 ---
 
 ## Features
